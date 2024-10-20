@@ -1,7 +1,8 @@
-this is sample text filethis is git classhello sumo
-
+this is sample text file
+this is git class
 xyx
-
+hello sumo
 this is python
 1
 2
+hi 
